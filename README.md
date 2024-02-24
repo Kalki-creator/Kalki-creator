@@ -1,7 +1,7 @@
-### Hi there 👋
+
 
 <!--
-**Kalki-creator/Kalki-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kalki-creator/Kalki-creator** is a ✨ _special_pository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
